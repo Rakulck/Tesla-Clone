@@ -46,6 +46,11 @@ function Home() {
         leftbtnText="Order Now!!"
         rightbtnText="Learn More"
       />
+      <Section
+        model="Accesories"
+        backgroundImg="accessories.jpg"
+        leftbtnText="Shop Now!!!"
+      />
     </Container>
   );
 }
