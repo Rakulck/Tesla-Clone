@@ -12,13 +12,6 @@ function Home() {
         rightbtnText="Existing Inventory"
       />
       <Section
-        model="Model Y"
-        backgroundImg="model-y.jpg"
-        description="Order Online for Touchless Delivery"
-        leftbtnText="Custom Order"
-        rightbtnText="Existing Inventory"
-      />
-      <Section
         model="Model 3"
         backgroundImg="model-3.jpg"
         description="Order Online for Touchless Delivery"
@@ -32,6 +25,14 @@ function Home() {
         leftbtnText="Custom Order"
         rightbtnText="Existing Inventory"
       />
+      <Section
+        model="Model Y"
+        backgroundImg="model-y.jpg"
+        description="Order Online for Touchless Delivery"
+        leftbtnText="Custom Order"
+        rightbtnText="Existing Inventory"
+      />
+
       <Section
         model="Lowest Cost Solar Panels in America"
         backgroundImg="solar-panel.jpg"
