@@ -32,6 +32,20 @@ function Home() {
         leftbtnText="Custom Order"
         rightbtnText="Existing Inventory"
       />
+      <Section
+        model="Lowest Cost Solar Panels in America"
+        backgroundImg="solar-panel.jpg"
+        description="Money Back gaurantee"
+        leftbtnText="Order Now!!"
+        rightbtnText="Learn More"
+      />
+      <Section
+        model="Solar for New Roofs"
+        backgroundImg="solar-roof.jpg"
+        description="MSolar Roofs costs Less Than A New Roof Plus Solar Panels"
+        leftbtnText="Order Now!!"
+        rightbtnText="Learn More"
+      />
     </Container>
   );
 }
