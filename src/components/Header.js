@@ -17,7 +17,7 @@ function Header() {
         <img src="/images/logo.svg" />
       </a>
       <Menu>
-        {cars && cars.map((car, index) => <a href="#">{car}</a>)}
+        {cars && cars.map((car, index) => <a href={"#" + car}>{car}</a>)}
         {/* <a href="#">Model S</a>
         <a href="#">Model 3</a>
         <a href="#">Model X</a>

@@ -1,4 +1,7 @@
 .App {
-  text-align: center;
+  text-align: center;scroll-behavior: smooth;
+}
+body{
+  scroll-behavior: smooth;
 }
 
