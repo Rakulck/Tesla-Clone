@@ -2,41 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-## Available Scripts
+I did this project to get familiar with react js and tailwind css.This is completely done for my leanring purpose.
 
-In the project directory, you can run:
+This app is completely responsive.This is just a front end website where I focused only on designing it and using animations.
 
-### `npm start`
+## Screenshots
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/77563090/181880310-4ace5b4b-9f0e-49c9-acc8-90626175b0df.png">
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/77563090/181880328-c7e77468-0a63-4c7d-a704-53d6a5c9438c.png">
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/77563090/181880349-8cf2a20c-c83a-42ee-9093-173b0459277c.png">
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Check it out!
 
 This project has been deployed using vercel.
-Pplease feel free to check it out!!
+Please feel free to check it out!!
 
 https://tesla-clone-ck.vercel.app/#Model%20S
